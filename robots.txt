@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Allow: https://www.webdreamscreations.com
+
+User-agent: Googlebot
+Allow: https://www.webdreamscreations.com/WebApps.html
+
+User-agent: Googlebot
+Allow: https://www.webdreamscreations.com/WebSites.html
